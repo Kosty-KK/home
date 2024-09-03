@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* имя тега */
+
+
+
+
+body {
+    /* background: linear-gradient(to right, #9198e527, #e664641e); Градиент слева направо от красного к фиолетовому */
+    /* Дополнительные свойства для фона */
+    /* background-repeat: no-repeat; Не повторять градиент */
+    /* background-attachment: fixed; Закрепить градиент при прокрутке */
+    /* Высота страницы, чтобы градиент был виден */
+    /* min-height: 100vh;  */
+    background-color: #ffffff;
+    min-height: 100vh;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #0F141E;
+    margin: 0px;
+    padding: 0px; 
+}
+
+.container{
+margin: 0px;
+margin-top: 55px;
+}
+
+.label {
+    text-align: center;
+
+}
+
+img{
+    width: 100%;
+}
+
+.adres{
+    margin-top: 2px;
+    padding: 0px;
+    color: #909090;
+    font-size: 13px;
+}
+
+
+.casino{
+    background-color: #c7daff;
+    border-radius: 20px;
+    padding: 7px;
+    margin: 5px;
+}
+
+.casino p{
+    margin: 5px;
+}
+

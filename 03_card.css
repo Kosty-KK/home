@@ -1,0 +1,12 @@
+.card .food {
+    border-radius: 80px;
+}
+
+.food1 {
+    border-radius: 50px;
+}
+
+.card {
+    width: auto;
+    margin: 7px;
+}
